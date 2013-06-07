@@ -1,0 +1,15 @@
+[
+    {
+        "name": "AT&T SDK Provider",
+        "groups": [
+            {
+                "name": "Provider",
+                "classes": [
+                    "Att.Provider",
+                    "Att.ApiResults"
+                ]
+            }
+        ]
+    }
+
+]
